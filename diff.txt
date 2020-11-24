@@ -1,0 +1,12 @@
+$ diff -u f1.txt f2.txt
+--- f1.txt      2020-11-24 15:58:28.013550000 +0530
++++ f2.txt      2020-11-24 16:01:20.280283600 +0530
+@@ -1,5 +1,4 @@
+-This is 1st file
++This is 2nd file
+ git demo
+-1st
++2nd
+ page
+-welcome to brach
+\ No newline at end of file
